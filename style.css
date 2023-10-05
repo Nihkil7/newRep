@@ -3,5 +3,9 @@
     color: red;
     font-size: 16px;
     background-color: white;
+    width: 2000000px;
     height: 1555px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
  }
